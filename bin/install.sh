@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 if [[ ! -f /sdcard/type ]] ; then
     echo "[×] 找不到架构文件，请重新运行脚本！"
     exit 0
